@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaibhavaDwivedi
-- 👀 I’m interested in Web Development with HTML5,CSS3, TAILWIND CSS, JavaScript, React JS
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js for better Website building
 - 💞️ I’m looking to collaborate on new exciting projects
 - 📫 How to reach me mail : dwivedivaibhava@gmail.com
